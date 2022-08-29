@@ -1,0 +1,2 @@
+# html.v1.3
+Carpeta que consta de 15 ejercicios de HTML versión 5, la carpeta también trae una carpeta secundaria con imágenes correspondientes a algunas paginas, cada uno de los códigos o paginas fueron validados por W3C, cada uno de los códigos fue endentado, también se agregaron comentarios al inicio de cada código, se agregó una carpeta mas con maquetado en css, se agregaron  mas imágenes a las paginas, con la ayuda del css se le dio color a cada pagina.
